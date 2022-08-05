@@ -26,5 +26,5 @@ const task2 = newTask("Do Laundry", "😨"); // task 1
 
 task1.logTaskState();
 task1.completeTask();
-task2.logTaskState;
+task2.logTaskState();
 task2.completeTask();
